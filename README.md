@@ -10,3 +10,5 @@
 - [페드로](https://github.com/ehBeak/momo-readme/blob/main/pedro.md)
 - [재즈](https://github.com/ehBeak/momo-readme/blob/main/jazz.md)
 - [다온](daon.md)
+- [해리](./harry.md)
+- [빙봉](./bingbong.md)
