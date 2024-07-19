@@ -2,3 +2,4 @@
 약속 시간과 최적의 만남 장소를 손쉽게 조율하는 서비스 momo
 
 ## 팀원 소개
+[배키](https://github.com/ehBeak/momo-readme/blob/main/pedro.md)
