@@ -4,6 +4,8 @@
 
 ## 팀원 소개
 
+- [배키](https://github.com/ehBeak/momo-readme/blob/main/pedro.md)
 - [낙타](./nakta.md)
 - [페드로](https://github.com/ehBeak/momo-readme/blob/main/pedro.md)
-- [빙봉](./bingbong.md)
+- [재즈](https://github.com/ehBeak/momo-readme/blob/main/jazz.md)
+- [다온](daon.md)
