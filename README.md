@@ -7,3 +7,4 @@
 - [배키](https://github.com/ehBeak/momo-readme/blob/main/pedro.md)
 - [낙타](./nakta.md)
 - [페드로](https://github.com/ehBeak/momo-readme/blob/main/pedro.md)
+- [재즈](https://github.com/ehBeak/momo-readme/blob/main/jazz.md)
